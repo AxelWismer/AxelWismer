@@ -1,11 +1,12 @@
-👋 Hi, I’m @AxelWismer
-### About me
+### 👋 Hi, I’m @AxelWismer
 - 👨‍💻 Im an entrepreneur and blockchain enthusiast. 
-- 🔗 For the last 2 years, I have worked as a process designer, blockchain architect, and smart contract developer
+- 🔗 For the last 2 years, I have worked as a process designer, blockchain architect, and smart contract developer.
 - 🗳️ I currently work in my own company [Kratia](https://www.linkedin.com/company/kratiavote/) developing voting systems. 
 - 🎓 Aside from my engineering studies, I am self-taught in many of the skills and technologies that I currently handle. 
 - 👀 I'm always looking to learn about new technologies related to Web 3.0 and face new challenges.
-- 📫 You can reach me in [LinkedIn](https://www.linkedin.com/in/axel-wismer)
+- 📫 You can reach me in [LinkedIn](https://www.linkedin.com/in/axel-wismer).
+
+#### Check out my latest public project: [PatCat](https://github.com/AxelWismer/PatCat)
 
 ### Experience and technologies
 - Blockchain:
@@ -23,5 +24,3 @@
 - FrontEnd:
   - HTML, CSS, JS, Angular
   - (I even know how to center a div 😎)
-
-Check out my latest public project [PatCat](https://github.com/AxelWismer/PatCat)
