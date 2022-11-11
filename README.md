@@ -6,7 +6,10 @@
 - 👀 I'm always looking to learn about new technologies related to Web 3.0 and face new challenges.
 - 📫 You can reach me in [LinkedIn](https://www.linkedin.com/in/axel-wismer).
 
-#### Check out my latest public project: [PatCat](https://github.com/AxelWismer/PatCat)
+### Projects
+  - My main current project is [Kratia](https://kratiavote.com/), a blockchain-based web voting system.
+  - Check out my latest public project: [PatCat](https://github.com/AxelWismer/PatCat).
+  - Coming soon: A file tokenizer with Solidity and Hardhat.
 
 ### Experience and technologies
 - Blockchain:
