@@ -8,8 +8,9 @@
 
 ### Projects
   - My main current project is [Kratia](https://kratiavote.com/), a blockchain-based web voting system.
-  - Check out my latest public project: [PatCat](https://github.com/AxelWismer/PatCat).
-  - Coming soon: A file tokenizer with Solidity and Hardhat.
+  - Check out my latest public projects: 
+    - [PatCat (Pattern Catalog)](https://github.com/AxelWismer/PatCat).
+    - [A file tokenizer in solidity](https://github.com/AxelWismer/solidity_file_tokenizer).
 
 ### Experience and technologies
 - Blockchain:
