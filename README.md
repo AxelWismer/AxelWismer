@@ -13,18 +13,9 @@
     - [A file tokenizer in solidity](https://github.com/AxelWismer/solidity_file_tokenizer).
 
 ### Experience and technologies
-- Blockchain:
-  - DAML / Haskell
-  - Hyperledger Fabric
-  - Solidity/Hardhat
-- Backend:
-  - Python: Django, Flask
-  - JS: Node, express
-- DB: PostgreSQL, MySQL, SQLite
-- DevOps:
-  - AWS: Lambda, S3, ECS, IAM
-  - DAML Hub
-  - GitHub, docker, Linux, VMs, shell script
-- FrontEnd:
-  - HTML, CSS, JS, Angular
-  - (I even know how to center a div 😎)
+- Smart Contract Developer: DAML / Haskell, Hyperledger Fabric, Solidity / Hardhat
+- Python Full Stack Developer: Django, Django REST, Flask, Pytest.
+- JavaScript / TypeScript Full Stack Developer: Node, Express, Angular, Mocha.
+- Scripting: Go, Java, C#.
+- Databases: PostgreSQL, MySQL, SQLite.
+- DevOps: AWS (Lambda, S3, ECS, IAM), Git, Docker, Linux, Virtual Machines, Shell Script.
