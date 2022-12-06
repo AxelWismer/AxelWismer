@@ -13,7 +13,6 @@
     - [A file tokenizer in solidity](https://github.com/AxelWismer/solidity_file_tokenizer).
   - Projects for companies:
     - ["Gobierno Abierto" (Open Government):  Córdoba government data portal](https://gobiernoabierto.cordoba.gob.ar/).
-    - [Kratia: An electronic voting system on blockchain](https://kratiavote.com/).
 
 ### Experience and technologies
 - Smart Contract Developer: DAML / Haskell, Hyperledger Fabric, Solidity / Hardhat
