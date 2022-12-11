@@ -9,9 +9,11 @@
 ### Projects
   - My main current project is [Kratia](https://kratiavote.com/), a blockchain-based web voting system.
   - Check out my latest public projects: 
+    - [Alchemy University Ethereum Developer Bootcamp](https://github.com/AxelWismer/alchemy-university): Blockchain and cryptography projects.
     - [PatCat (Pattern Catalog)](https://github.com/AxelWismer/PatCat).
     - [A file tokenizer in solidity](https://github.com/AxelWismer/solidity_file_tokenizer).
-  - Projects for companies:
+
+- Projects for companies:
     - ["Gobierno Abierto" (Open Government):  Córdoba government data portal](https://gobiernoabierto.cordoba.gob.ar/).
 
 ### Experience and technologies
